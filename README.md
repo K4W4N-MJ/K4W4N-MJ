@@ -1,4 +1,6 @@
-Oii eu sou o Kawan Maroja
+<br>
+<h1>Oii eu sou o Kawan Maroja<h1/>
+<h3>Desenvolvedor de software apaixonado por programação web e aprendizado contínuo. Sempre em busca de novos desafios!</h3>
 
 <div>
   <a href="https://github.com/K4W4N-MJ">
@@ -13,12 +15,12 @@ Oii eu sou o Kawan Maroja
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+ <h2>Minhhas Redes Sociais !!!<h2/>
  
 <div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<!--   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<!--  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href= "" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
