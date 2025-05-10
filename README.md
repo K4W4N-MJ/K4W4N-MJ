@@ -1,5 +1,5 @@
-<br>
-<h1>Oii eu sou o Kawan Maroja<h1/>
+
+<h1>Oii eu sou o Kawan Maroja</h1>
 <h3>Desenvolvedor de software apaixonado por programação web e aprendizado contínuo. Sempre em busca de novos desafios!</h3>
 
 <div>
