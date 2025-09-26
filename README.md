@@ -4,7 +4,7 @@
 
 Sou apaixonado por tecnologia e atualmente foco meus estudos em **Desenvolvimento Web**.  
 Tenho sólida base em **HTML, CSS e JavaScript**, e estou me aprofundando em **React**.  
-Além disso, estou expandindo meus conhecimentos em **Java, Python e Programação Orientada a Objetos (POO)**.  
+Além disso, estou expandindo meus conhecimentos em **TypeScript, NodeJs e POO**.  
 
 Busco minha primeira oportunidade profissional na área de TI, onde possa aplicar minhas habilidades e evoluir junto com a equipe.  
 
