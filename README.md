@@ -1,5 +1,3 @@
-# 👋 Kawan Maroja
-
 💻 Desenvolvedor Front-End em formação | Estudante de Análise e Desenvolvimento de Sistemas  
 
 Sou apaixonado por tecnologia e atualmente foco meus estudos em **Desenvolvimento Web**.  
