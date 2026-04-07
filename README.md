@@ -73,15 +73,6 @@ Aplicações práticas para reforçar lógica e manipulação do DOM
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 📈 Atualmente focado em
 
 * ⚛️ React (Hooks, Componentização)
@@ -94,8 +85,8 @@ Aplicações práticas para reforçar lógica e manipulação do DOM
 
 ## 📫 Contato
 
-📧 Email: [seuemail@email.com](mailto:seuemail@email.com)
-💼 LinkedIn: https://linkedin.com/in/seu-link
+📧 Email: kawan.mj18@gmail.com
+💼 LinkedIn: www.linkedin.com/in/kawan-maroja-1b74a7153
 🌐 Portfólio: em breve
 
 ---
@@ -106,12 +97,6 @@ Aplicações práticas para reforçar lógica e manipulação do DOM
 * ✔️ Facilidade em resolver problemas
 * ✔️ Foco em evolução constante
 * ✔️ Interesse real pela área
-
----
-
-## 💭 Filosofia
-
-> “Disciplina vence motivação.”
 
 ---
 
